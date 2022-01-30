@@ -6,16 +6,16 @@ To make it work you need to call "aeroTab.py" followed by the commands.
 In the following you can find the instractions and some examples.
 
 You can run on PowerShell by following these steps:
-STEP 1: 
+- STEP 1: 
   - Open Powershell
-STEP 2: 
+- STEP 2: 
   - Select the directory in which you have saved the scripts: 
   - i.e. type :
     PS: cd "<PATH>"
-STEP 3:
+- STEP 3:
   - Study the command menu:
     PS : python .\aeroTab.py -h
- STEP 4: 
+ - STEP 4: 
   - Perform some calculations:
     PS : python .\aeroTab.py -o "2.4 , 18"  -show 1
 
