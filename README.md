@@ -47,6 +47,7 @@ COMMANDS       :
 
 SETTINGS   :
  -g "gam"    : set a value for gamma, default is gamma = 1.4 (dry air)
+ 
  -show "1/0" : show plots (useful for debugging), default is 0.
  
  Example of usage: 
