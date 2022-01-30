@@ -11,7 +11,7 @@ You can run on PowerShell by following these steps:
 - STEP 2: 
   - Select the directory in which you have saved the scripts: 
   - i.e. type :
-    PS: cd "<PATH>"
+    PS: cd "put here your PATH"
 - STEP 3:
     Study the command menu:
     PS : python .\aeroTab.py -h
