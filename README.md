@@ -22,17 +22,17 @@ You can run on PowerShell by following these steps:
 Available commands:
 
 COMMANDS       :
- -h              : help command .
- -i "M"          : compute the Isoentropic Table given the Mach numer.
- -ip "P/P*"      : compute Mach number given pressur ratio (P/P0), for Isoentropic Flow.
- -ia "A/A*"      : compute Mach number given area ratio (A/A*) in a Convergent-Divergent nozzle.
- -f "M"          : compute Fanno Table (with friction, no heat) given Mach number M.
- -fg "g(M)"      : compute Mach number given Fanno parameter g(M)=4fL/d, for a Fanno flow.
- -r "M"          : compute Rayleigh Table (Heat Addition, friction-less) given Mach number M.
- -rt "b(M)"      : compute Rayleigh Table given T0/T0*, for a Rayleigh flow .
- -n "M1"         : compute Normal Shocks Table given inlet Mach numberYes  M1
- -p "M"          : compute Prandtl-Meyer Function and Mach Angle  given Mach number
- -o "M , theta"  : compute the Oblique Shocks deflection angle beta, given Mach number and deflector angle Theta (deg)
+  -h              : help command .
+  -i "M"          : compute the Isoentropic Table given the Mach numer.
+  -ip "P/P*"      : compute Mach number given pressur ratio (P/P0), for Isoentropic Flow.
+  -ia "A/A*"      : compute Mach number given area ratio (A/A*) in a Convergent-Divergent nozzle.
+  -f "M"          : compute Fanno Table (with friction, no heat) given Mach number M.
+  -fg "g(M)"      : compute Mach number given Fanno parameter g(M)=4fL/d, for a Fanno flow.
+  -r "M"          : compute Rayleigh Table (Heat Addition, friction-less) given Mach number M.
+  -rt "b(M)"      : compute Rayleigh Table given T0/T0*, for a Rayleigh flow .
+  -n "M1"         : compute Normal Shocks Table given inlet Mach numberYes  M1
+  -p "M"          : compute Prandtl-Meyer Function and Mach Angle  given Mach number
+  -o "M , theta"  : compute the Oblique Shocks deflection angle beta, given Mach number and deflector angle Theta (deg)
 
 SETTINGS   :
  -g "gam"    : set a value for gamma, default is gamma = 1.4 (dry air)
