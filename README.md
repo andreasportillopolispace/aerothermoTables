@@ -13,10 +13,10 @@ You can run on PowerShell by following these steps:
   - i.e. type :
     PS: cd "<PATH>"
 - STEP 3:
-  - Study the command menu:
+    Study the command menu:
     PS : python .\aeroTab.py -h
  - STEP 4: 
-  - Perform some calculations:
+    Perform some calculations:
     PS : python .\aeroTab.py -o "2.4 , 18"  -show 1
 
 Available commands:
