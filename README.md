@@ -19,7 +19,7 @@ You can run on PowerShell by following these steps:
     Perform some calculations:
     PS : python .\aeroTab.py -o "2.4 , 18"  -show 1
 
-Available commands:
+# Available commands:
 
 COMMANDS       :
   -h              : help command .
@@ -45,7 +45,7 @@ COMMANDS       :
   -o "M , theta"  : compute the Oblique Shocks deflection angle beta, given Mach number and deflector angle Theta (deg)
   
 
-SETTINGS   :
+# SETTINGS   :
  -g "gam"    : set a value for gamma, default is gamma = 1.4 (dry air)
  
  -show "1/0" : show plots (useful for debugging), default is 0.
